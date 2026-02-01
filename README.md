@@ -45,10 +45,10 @@ Identity is:
 ## 🖼️ Screenshots
 
 ### Dashboard Interface
-![UI Screenshot](public/UI.png)
+![UI Screenshot](app/public/UI.png)
 
 ### Live Demo
-![Demo Screenshot](public/demo.png)
+![Demo Screenshot](app/public/demo.png)
 
 ---
 
