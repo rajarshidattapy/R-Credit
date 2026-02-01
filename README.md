@@ -1,4 +1,4 @@
-# AurumCredit
-AurumCredit is a Creditcoin-native platform for owning, transferring, and financing tokenized Sovereign Gold Bond (SGB) exposure.
+# Z-Credit
+Make real-world assets credit-ready with ZK-verified identity with decentralized, non-escapable credit history on CreditCoin.
 
 - Docs: https://docs.creditcoin.org/
