@@ -1,0 +1,5 @@
+identity_leaf = Poseidon(
+    identity_secret,
+    pan_hash,
+    device_key_hash
+)
